@@ -16,7 +16,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<a href="https://github.com/sansabilagalih"><img alt="sansabilagalih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sansabilagalih&theme=tokyo-night" /></a>
+<a href="https://github.com/sansabilagalih"><img alt="Galih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sansabilagalih&theme=tokyo-night" /></a>
 
 ## 🏆 My Trophies 
 <p align="center">
