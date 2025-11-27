@@ -1,4 +1,4 @@
-<img src="screenshot.png" width="100%" />
+<!-- <img src="screenshot.png" width="100%" /> -->
 
 <h1 align="center">Hello, I'm <b>Galih</b> 🧑‍💻</h1>
 <h3 align="center">Web3 Developer • Smart Contract Engineer • dApp Builder</h3>
